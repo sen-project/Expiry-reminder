@@ -1,0 +1,30 @@
+{
+  "name": "medicine-management",
+  "version": "1.0.0",
+  "description": "家庭药品库存预警系统的设计与实现",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "~1.13.6",
+    "cors": "~2.8.5",
+    "dotenv": "~16.3.1",
+    "express": "~4.18.2",
+    "jsonwebtoken": "~9.0.2",
+    "multer": "~1.4.5-lts.1",
+    "mysql2": "~3.6.5",
+    "node-schedule": "~2.1.1",
+    "nodemailer": "~6.9.7",
+    "xlsx": "~0.18.5"
+  },
+  "keywords": [
+    "medicine",
+    "management",
+    "express",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC"
+}
