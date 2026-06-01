@@ -1,5 +1,9 @@
 # 药品库存预警系统
 
+<div align="right">
+  <a href="README.en.md">English document</a>
+</div>
+
 ![License](https://img.shields.io/badge/license-ISC-blue)
 ![Node Version](https://img.shields.io/badge/node-%3E%3D16-green)
 ![Vue Version](https://img.shields.io/badge/vue-3.4-brightgreen)

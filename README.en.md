@@ -1,5 +1,9 @@
 # Medicine Inventory Alert System
 
+<div align="right">
+  <a href="README.md">中文文档</a>
+</div>
+
 ![License](https://img.shields.io/badge/license-ISC-blue)
 ![Node Version](https://img.shields.io/badge/node-%3E%3D16-green)
 ![Vue Version](https://img.shields.io/badge/vue-3.4-brightgreen)
